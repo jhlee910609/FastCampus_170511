@@ -22,11 +22,11 @@ public class CollectionMain {
 		ArrayList<Student> list = new ArrayList<>();
 		
 		Student a1 = new Student();
-		a1.name = "홍길동";
+		a1.name = "이준희";
 		a1.age = 500;
 		
 		Student a2 = new Student();
-		a2.name = "이순신";
+		a2.name = "이지현";
 		a2.age = 1000;
 		
 		list.add(a1);
